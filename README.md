@@ -1,10 +1,10 @@
 # ssid
 
-A simple go package to get the SSID of the Wi-Fi you are connected to
+A tiny go package to get the SSID of the Wi-Fi you are connected to
 
 ## Installation
 
-```go
+```
 go get github.com/shmokmt/ssid
 ```
 
